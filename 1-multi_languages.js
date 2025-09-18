@@ -1,4 +1,5 @@
 const language = `C is fun
-Python is Cool
+Python is cool
 JavaScript is amazing`;
+
 console.log(language);
